@@ -337,7 +337,7 @@ Concentration and load modeling is both art and science. The knowledge of water 
 Cleveland, W.S., Grosse, E., and Shyu, M-J., 1996, A package of C and Fortran routines for fitting local regression models: Loess user's manual:Bell Labs, Technical Report. Available as PostScript report at http://www.stat.purdue.edu/~wsc/papers.html.
 
 \bibitem{HD}
-Hirsch, R.M. and De Cicco, L.A., 2015, User guide to Exploration and Graphics for RivEr Trends (EGRET) and dataRetrieval R for hydrologic data (version 2.0, February 2015): U.S. Geological Survey Techniques and Methods book 4, chap A10, 93 p. Available at http://dx.doi.org/10.3133/tm4A10.
+Hirsch, R.M. and De Cicco, L.A., 2015, User guide to Exploration and Graphics for RivEr Trends (EGRET) and dataRetrieval R for hydrologic data (version 2.0, February 2015): U.S. Geological Survey Techniques and Methods book 4, chap A10, 93 p. Available at https://doi.org/10.3133/tm4A10.
 
 \bibitem{RCC}
 Runkel, R.L., Crawford, C.G., and Cohn, T.A., 2004, Load estimator (LOADEST): a FORTRAN program for estimating constituent loads in streams and rivers: U.S. Geological Survey Techniques and Methods book 4, chap. A5, 69 p.
